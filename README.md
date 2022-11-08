@@ -34,3 +34,6 @@ Anggota :
 
 ## Nomor 1
 ### Soal
+Loid bersama Franky berencana membuat peta tersebut dengan kriteria WISE sebagai DNS Server, Westalis sebagai DHCP Server, Berlint sebagai Proxy Server
+
+### Penyelesaian
